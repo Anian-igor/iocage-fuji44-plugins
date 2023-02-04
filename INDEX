@@ -2,7 +2,7 @@
   "flexget": {
     "MANIFEST": "flexget.json",
     "name": "FlexGet",
-    "icon": "https://raw.githubusercontent.com/fuji44/iocage-fuji44-plugins/main/icons/flexget.png",
+    "icon": "https://raw.githubusercontent.com/Anian-igor/iocage-fuji44-plugins/main/icons/flexget.png",
     "description": "FlexGet is a multipurpose automation tool for all of your media Support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.",
     "official": false,
     "primary_pkg": null,
